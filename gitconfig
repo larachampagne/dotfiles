@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = larachampagne05@gmail.com
+	name = Lara Champagne
